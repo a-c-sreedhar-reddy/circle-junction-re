@@ -1,0 +1,17 @@
+{
+  "name": "circle-junction-re",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fccm/circle-junction-re",
+  "author": "a-c-sreedhar-reddy <acreddysreedharreddy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.13.12",
+    "rescript": "^9.1.4"
+  },
+  "scripts": {
+    "watch": "rescript build -w",
+    "clean": "rescript clean",
+    "build": " esbuild ./src/CircleJunction.bs.js --bundle --outfile=out.js"
+  }
+}
