@@ -12,6 +12,7 @@
   "scripts": {
     "watch": "rescript build -w",
     "clean": "rescript clean",
-    "build": " esbuild ./src/CircleJunction.bs.js --bundle --outfile=out.js"
+    "re:build": "rescript build",
+    "build": "esbuild ./src/CircleJunction.bs.js --bundle --outfile=out.js"
   }
 }
