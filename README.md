@@ -20,4 +20,4 @@ opening `circle-juntion-re.html` should work now
 
 ## Play online:
 
-[Play in your web browser!](https://fccm.github.io/circle-junction-re/circle-junction-re.html)
+[Play in your web browser!](https://a-c-sreedhar-reddy.github.io/circle-junction-re/)
